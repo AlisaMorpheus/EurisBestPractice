@@ -1,4 +1,4 @@
-package shape;
+package bridgeshape;
 
 public class Shape {
     private final Color color;
